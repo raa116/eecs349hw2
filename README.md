@@ -1,1 +1,3 @@
 # eecs349hw2
+
+EECS 349: HW2-Q1
